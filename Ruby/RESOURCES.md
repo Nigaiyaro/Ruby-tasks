@@ -3,17 +3,19 @@
 ### .rubocop.yml = equivalent of .eslintignore ###
 
 https://stackoverflow.com/questions/6005692/ruby-gets-puts-only-for-strings
-### tells about .to_i and .chomp. Useful when wanting inputs. ###
+### tells about .to_i and .chomp. Useful when wanting inputs ###
 
 https://stackoverflow.com/questions/13538914/ruby-how-to-keep-n-when-i-print-out-strings 
 ### print/puts/pry ###
 
 https://www.rubyguides.com/2018/11/coding-challenges/
+### Coding challenges ###
 
+https://www.tutorialspoint.com/ruby/ruby_operators.htm#:~:text=Ruby%20Logical%20Operators&text=Called%20Logical%20AND%20operator.,a%20and%20b)%20is%20true.&text=Called%20Logical%20OR%20Operator.
+### Ruby operators ###
 
-
-
-
+https://github.com/rubyide/vscode-ruby/blob/master/docs/linting.md
+### ruby documentation ###
 
 
 

@@ -4,7 +4,7 @@ print "#{puts "\n"}insert a value: "
 input_value = gets.to_i
 i = 0.to_i
 
-puts ""
+puts ''
 
 while (i - 1) < input_value
   if (i % 3) == 0 && (i % 5) != 0 # 3, 6, 9
@@ -19,4 +19,4 @@ while (i - 1) < input_value
   i += 1
 end
 
-puts ""
+puts ''
