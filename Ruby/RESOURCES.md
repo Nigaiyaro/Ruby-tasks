@@ -24,3 +24,10 @@ https://www.rubyguides.com/2018/11/coding-challenges/
 # Prints "Hello World".
 ### text = `Hello World` ###
 ### puts text # also doing it this way, "puts `Hello World`"" directly, would work. ###
+
+### Git stuff below ###
+
+https://docs.microsoft.com/en-us/visualstudio/get-started/tutorial-open-project-from-repo?view=vs-2019
+
+https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github#:~:text=Setup%20Personal%20Access%20Token&text=To%20execute%20the%20'GitHub%3A%20Set,the%20token%20generated%20from%20GitHub.
+
