@@ -17,6 +17,9 @@ https://www.tutorialspoint.com/ruby/ruby_operators.htm#:~:text=Ruby%20Logical%20
 https://github.com/rubyide/vscode-ruby/blob/master/docs/linting.md
 ### ruby documentation ###
 
+https://www.freecodecamp.org/news/common-array-methods-in-ruby/
+### array methods ###
+
 
 
 
