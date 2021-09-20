@@ -1,2 +1,2 @@
 # Portfolio
-JavaScript and Ruby portfolio.
+Ruby portfolio.
